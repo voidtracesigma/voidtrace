@@ -4,5 +4,5 @@
     "noEmit": false,
     "sourceMap": false
   },
-  "exclude": ["tests", "**/*.test.ts"]
+  "exclude": ["tests", "**/*.test.ts","port","_tmp"]
 }
